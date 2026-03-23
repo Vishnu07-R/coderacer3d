@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Code Racer 3D</string>
+    <string name="title_activity_main">Code Racer 3D</string>
+    <string name="package_name">app.lovable.d49f1261e796491a83bf0782ba74866a</string>
+    <string name="custom_url_scheme">app.lovable.d49f1261e796491a83bf0782ba74866a</string>
+</resources>

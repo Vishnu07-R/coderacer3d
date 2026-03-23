@@ -1,0 +1,30 @@
+{
+  "1": {
+    "name": "You (Player 1)",
+    "level": 1,
+    "score": 1850,
+    "coins": 185,
+    "points": 822
+  },
+  "2": {
+    "name": "ByteSlayer",
+    "level": 42,
+    "score": 98500,
+    "coins": 2450,
+    "points": 1200
+  },
+  "3": {
+    "name": "NeonCoder",
+    "level": 38,
+    "score": 87200,
+    "coins": 1800,
+    "points": 900
+  },
+  "4": {
+    "name": "PixelRacer",
+    "level": 35,
+    "score": 81400,
+    "coins": 1500,
+    "points": 750
+  }
+}
