@@ -1,0 +1,8 @@
+[build]
+builder = "nixpacks"
+
+[build.nixpacks]
+aptPkgs = ["libatomic1"]
+
+[build.nixpacks.phases.install]
+cmds = ["bun install"]
